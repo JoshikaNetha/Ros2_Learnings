@@ -1,0 +1,4 @@
+source;share/joshika_package/local_setup.bash
+source;share/joshika_package/local_setup.dsv
+source;share/joshika_package/local_setup.sh
+source;share/joshika_package/local_setup.zsh
